@@ -1,0 +1,32 @@
+{
+  "canvas_feed": [1080, 1080],
+  "canvas_reel": [1080, 1920],
+  "bg_top": [16, 16, 22],
+  "bg_bottom": [8, 8, 10],
+  "card_bg": [20, 20, 26],
+  "text_color": [245, 245, 245],
+  "muted_color": [150, 150, 158],
+  "accent_color": [255, 255, 255],
+  "font_regular_candidates": [
+    "/System/Library/Fonts/Supplemental/Arial.ttf",
+    "/System/Library/Fonts/Helvetica.ttc",
+    "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"
+  ],
+  "font_bold_candidates": [
+    "/System/Library/Fonts/Supplemental/Arial Bold.ttf",
+    "/System/Library/Fonts/Supplemental/Arial.ttf",
+    "/System/Library/Fonts/Helvetica.ttc",
+    "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"
+  ],
+  "font_start_size": 64,
+  "font_min_size": 30,
+  "video_fps": 30,
+  "video_zoom": 0.08,
+  "video_min_sec": 6,
+  "video_max_sec": 15,
+  "video_secs_per_word": 0.12,
+  "strip_emoji": true,
+  "hashtags": "#threads #reels #fyp #konten",
+  "fetch_sleep_sec": 1,
+  "card_width": 460
+}
